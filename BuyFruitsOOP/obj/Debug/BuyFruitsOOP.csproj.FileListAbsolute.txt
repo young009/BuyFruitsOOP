@@ -1,0 +1,6 @@
+c:\users\acer\documents\visual studio 2012\Projects\BuyFruitsOOP\BuyFruitsOOP\bin\Debug\BuyFruitsOOP.exe.config
+c:\users\acer\documents\visual studio 2012\Projects\BuyFruitsOOP\BuyFruitsOOP\bin\Debug\BuyFruitsOOP.exe
+c:\users\acer\documents\visual studio 2012\Projects\BuyFruitsOOP\BuyFruitsOOP\bin\Debug\BuyFruitsOOP.pdb
+c:\users\acer\documents\visual studio 2012\Projects\BuyFruitsOOP\BuyFruitsOOP\obj\Debug\BuyFruitsOOP.exe
+c:\users\acer\documents\visual studio 2012\Projects\BuyFruitsOOP\BuyFruitsOOP\obj\Debug\BuyFruitsOOP.pdb
+c:\users\acer\documents\visual studio 2012\Projects\BuyFruitsOOP\BuyFruitsOOP\obj\Debug\BuyFruitsOOP.csprojResolveAssemblyReference.cache
